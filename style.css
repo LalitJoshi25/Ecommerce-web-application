@@ -1,0 +1,135 @@
+* {
+    scroll-behavior: smooth;
+}
+
+.header_caro {
+    margin-top: 10px;
+}
+
+.shado {
+    box-shadow: 0 0.5rem 3rem aquamarine !important;
+}
+
+.feature {
+    background: rgb(0, 1210230);
+    background: linear-gradient(0deg, rgba(0, 121, 230, 1) 0%, rgba(0, 250, 255, 1) 90%);
+}
+
+.colorr {
+    background-color: aqua;
+    height: 1%;
+    width: 100%;
+}
+
+.backtopcl {
+    margin: 4px !important;
+    bottom: 4px;
+    right: 30px !important;
+    float: right;
+    position: fixed;
+}
+
+
+/* Product Page CSS */
+
+
+/* product image new highlight start */
+
+.badge {
+    margin-top: 2px;
+}
+
+.highlite_new {
+    background-color: red;
+    color: white;
+    border-radius: 15px !important;
+}
+
+
+/* product image new highlight ends */
+
+
+/* Cart page */
+
+.border-right {
+    border-right: 2px solid lightblue;
+}
+
+.custom_cart {
+    background: aliceblue !important;
+    border: 2px solid lightseagreen;
+}
+
+.custom_list_cart {
+    background: aliceblue !important;
+}
+
+
+/* checkout Page */
+
+.Css_custom {
+    /* background: rgb(0, 1210230);
+    background: linear-gradient(0deg, rgba(0, 121, 230, 1) 0%, rgba(0, 250, 255, 1) 90%); */
+    background-color: aliceblue;
+}
+
+.border_css {
+    border: 1px solid lightgray;
+}
+
+
+/* Order Place */
+
+.alcenter {
+    text-align: center;
+    margin-top: 5px;
+}
+
+.success {
+    color: rgb(101, 235, 101);
+}
+
+
+/* About  Us page */
+
+.info_cu {
+    background-color: aquamarine;
+}
+
+.cus_css_about {
+    cursor: pointer;
+}
+
+.cus_css_about:hover {
+    box-shadow: 0 0.85rem 1rem aquamarine !important;
+}
+
+
+/* contact us */
+
+.blue {
+    box-shadow: 0 0.5rem 3rem lightblue !important;
+}
+
+.hov-blue:hover {
+    box-shadow: 0 0.85rem 1rem lightblue !important;
+    cursor: pointer;
+}
+
+
+/* .mar-bottom {
+    margin-bottom: 5rem !important;
+} */
+
+
+/* utils */
+
+.highlite {
+    color: rgb(148, 1, 1) !important;
+    /* color: aquamarine !important; */
+}
+
+.col_black {
+    color: black !important;
+    font-weight: bold;
+}
